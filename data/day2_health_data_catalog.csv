@@ -1,0 +1,6 @@
+dataset_id,source_file,health_data_type,example_grain,row_count,column_count,possible_lab_use
+diabetes,PotentialDataset/data/diabetes_full_norwegian_mod.csv,clinical/laboratory tabular,one patient,442,15,hypothesis testing and supervised prediction
+breast_cancer,PotentialDataset/data/brystkreft.csv,clinical outcomes tabular,one patient/surgery record,306,8,outcome classification
+stroke,PotentialDataset/data/Datasets/Stroke/Strokesdataset.csv,population risk factor tabular,one person,43400,12,binary stroke classification
+adhd200,PotentialDataset/data/Datasets/ADHD200/NYU_phenotypic.csv,phenotypic research tabular,one imaging participant,222,23,cohort description and QC filtering
+sepsis,PotentialDataset/data/knoop_norwaysepsis_mod_en.csv,care episode tabular,one hospital episode,110204,18,length-of-stay and outcome modeling
